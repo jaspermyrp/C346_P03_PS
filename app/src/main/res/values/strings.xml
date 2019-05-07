@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+
+    <string name="checkGST">GST 7%</string>
+    <string name="checkSvc">Service Charge 10%</string>
+
+    <string name="optional">(Optional)</string>
+
+    <string name="calc">Calculate</string>
+    <string name="clear">Reset</string>
+</resources>
